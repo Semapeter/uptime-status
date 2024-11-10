@@ -8,8 +8,8 @@ window.Config = {
   ApiKeys: [
     'm797996485-fe482e377080c005ed5c754e',
     'm797996481-861e223893aacdcb27598df4',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    // 'm784497419-de55aa09902ccb3ab22d548a',
+    // 'm784496436-71a4bf7b1e3bdf7756be131b',
   ],
 
   // 日志天数
@@ -20,17 +20,13 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
+    // {
+    //   text: 'Homepage',
+    //   url: 'https://status.org.cn/'
+    // },
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: '博客',
+      url: 'https://luoboy.com/'
     },
   ],
 };
