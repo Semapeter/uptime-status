@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: '胡萝卜须儿网站状态监测面板',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
