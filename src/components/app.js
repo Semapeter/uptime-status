@@ -23,7 +23,7 @@ function App() {
           ))}
         </div>
         <div id='footer'>
-          // <p>基于 <Link to='https://uptimerobot.com/' text='UptimeRobot' /> 接口制作，检测频率 5 分钟</p>
+          
           <p>&copy; 2024 <Link to='https://luoboy.com/' text='LUOBOY.COM' />, Version {Package.version}</p>
         </div>
       </div>
